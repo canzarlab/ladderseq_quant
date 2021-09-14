@@ -1,0 +1,1 @@
+cmd='autoheader;&&;autoconf;&&;/algbio1/shounak/Ladder_seq_final_repos/kallisto-ls/ext/htslib/configure;--prefix=;--disable-bz2;--disable-lzma;--disable-libcurl'
